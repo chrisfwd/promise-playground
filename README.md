@@ -2,12 +2,12 @@
 A simple playground to help people understand how JavaScript Promises work.
 
 ## Installation
+* Make sure Node is installed.
 * clone or download the repo.
 * thats it. all you need is the 2 .js files
 
 ## Run
-* Make sure Node is installed.
-* Open the console and cd to the directory that houses these files.
+* Open the console and cd to the directory that houses the .JS files.
 * run 'node index.js'
 
 ## Play
